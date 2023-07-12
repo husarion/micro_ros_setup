@@ -12,7 +12,7 @@
   <depend>python3-yaml</depend>
   <!-- these are needed to build fastrtps -->
   <buildtool_depend>asio</buildtool_depend>
-  <buildtool_depend>tinyxml2</buildtool_depend>
+  <buildtool_depend>TinyXML2</buildtool_depend>
   <!-- end fastrtps deps -->
   <depend>clang-tidy</depend>
 
