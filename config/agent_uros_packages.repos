@@ -5,8 +5,8 @@ repositories:
     version: iron
   uros/micro-ROS-Agent:
     type: git
-    url: https://github.com/micro-ROS/micro-ROS-Agent.git
-    version: v2.4.1
+    url: https://github.com/husarion/micro-ROS-Agent.git
+    version: iron
   uros/drive_base:
     type: git
     url: https://github.com/micro-ROS/drive_base.git
